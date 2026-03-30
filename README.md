@@ -35,26 +35,16 @@
 <h3 align="left">🌐 Connect with me</h3>
 
 <div align="left">
-  <a href="https://youtube.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/_chamidu._.prabodya" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <a href="https://twitch.tv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&style=for-the-badge" height="35" alt="Twitch" />
-  </a>
-  <a href="https://discord.gg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="mailto:chamiduworks@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/chamidu-prabodya-b14b2a398/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
-
 ###
 
 <br clear="both">
