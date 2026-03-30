@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChamiduPrabodya&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChamiduPrabodya&layout=compact&theme=dracula" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChamiduPrabodya&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChamiduPrabodya&layout=compact&theme=dracula&cache_seconds=1800" height="150" />
 </div>
 
 ###
