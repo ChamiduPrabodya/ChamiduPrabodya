@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Chamidu and I'm a Full Stack Developer from Sri Lanka 🇱🇰</h2>
+<h2 align="left">Hi 👋! My name is Chamidu Prabodya and I'm a Full Stack Developer from Sri Lanka 🇱🇰</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChamiduPrabodya&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChamiduPrabodya&show_icons=true&theme=dracula&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChamiduPrabodya&layout=compact&theme=dracula" height="150" />
 </div>
 
 ###
@@ -12,6 +12,8 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
+
+<h3 align="left">🚀 Tech Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
@@ -25,22 +27,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
 </div>
 
 ###
 
+<h3 align="left">🌐 Connect with me</h3>
+
 <div align="left">
-  
-  <a href="https://instagram.com/YOUR_USERNAME">
+  <a href="https://youtube.com/">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://instagram.com/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" />
   </a>
-  <a href="https://discord.gg/YOUR_SERVER">
+  <a href="https://twitch.tv/">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://discord.gg/">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:yourmail@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
+  <a href="https://linkedin.com/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" />
   </a>
 </div>
@@ -49,4 +60,8 @@
 
 <br clear="both">
 
+<h3 align="left">🐍 Contribution Snake</h3>
+
 <img src="https://raw.githubusercontent.com/ChamiduPrabodya/ChamiduPrabodya/output/snake.svg" alt="Snake animation" />
+
+###
