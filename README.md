@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chamidu Prabodya</h1>
 <h3 align="center">Full Stack Developer from Sri Lanka 🇱🇰</h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/chamidu-prabodya-b14b2a398/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_chamidu._.prabodya" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:chamiduworks@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+
 
 ---
 
