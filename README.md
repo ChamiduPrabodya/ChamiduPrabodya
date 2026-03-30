@@ -63,5 +63,4 @@
 <h3 align="left">🐍 Contribution Snake</h3>
 
 <img src="https://raw.githubusercontent.com/ChamiduPrabodya/ChamiduPrabodya/output/snake.svg" alt="Snake animation" />
-
 ###
