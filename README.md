@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="280" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="200" style="border-radius:10px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2twamgxOHJocXdpczBka2JkZnMxeGRmNTd4OTNneDNtMWV0YTFzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdR9BDaFTp51opG/giphy.gif" />
 
 ### 👨‍💻 About Me
 
