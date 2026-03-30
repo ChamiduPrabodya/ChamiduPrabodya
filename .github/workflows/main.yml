@@ -20,7 +20,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ChamiduPrabodya
-          outputs: dist/snake.svg
+          outputs: |
+               dist/snake.svg
 
       - name: Deploy snake to output branch
         uses: peaceiris/actions-gh-pages@v3
