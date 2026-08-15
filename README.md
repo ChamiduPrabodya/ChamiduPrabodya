@@ -22,9 +22,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChamiduPrabodya&show_icons=true&theme=dracula" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamiduPrabodya&layout=compact&theme=dracula" height="160" alt="Top languages" />
+  <img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
 </div>
+
+---
 
 ---
 
