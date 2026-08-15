@@ -22,8 +22,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChamiduPrabodya&show_icons=true&theme=dracula&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChamiduPrabodya&layout=compact&theme=dracula" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChamiduPrabodya&show_icons=true&theme=dracula" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamiduPrabodya&layout=compact&theme=dracula" height="160" alt="Top languages" />
 </div>
 
 ---
