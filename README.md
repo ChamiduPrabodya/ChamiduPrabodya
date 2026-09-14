@@ -14,7 +14,7 @@
 - 🚀 Interested in building modern web applications
 - 🇱🇰 Based in Sri Lanka
 - 📫 Reach me at **chamiduworks@gmail.com**
-- 🌐 Portfolio: chamidu-prabodya.onrender.com
+- 🌐 Portfolio: **chamidu-prabodya.onrender.com**
 
 <br clear="right"/>
 
